@@ -1,6 +1,6 @@
 # Hi!👋🏻 I'm SUZAIN FATIMA
 ## About Me:
-👩‍💻 Final-year Computer Science student passionate about software development and real-time applications.<br>🛠 Hands-on experience with Python, Java, C, HTML/CSS, and web technologies through internships and projects.<br>🚀 Built diverse projects including Drowsiness Detection, HealthCare & Restaurant Websites, and a Java-based Flappy Bird game.<br>📚 Certified in Cybersecurity, Cloud Foundations, Data Structures, and Machine Learning from Cisco, AWS, Infosys, and IBM.<br>✉ Feel free to reach out to me at suzainfatima28@gmail.com – happy to connect and collaborate!<br>
+👩‍💻 Final-year Computer Science Graduate passionate about software development and real-time applications.<br>🛠 Hands-on experience with Python, Java, C, HTML/CSS, and web technologies through internships and projects.<br>🚀 Built diverse projects including Drowsiness Detection, HealthCare & Restaurant Websites, and a Java-based Flappy Bird game.<br>📚 Certified in Cybersecurity, Cloud Foundations, Data Structures, and Machine Learning from Cisco, AWS, Infosys, and IBM.<br>✉ Feel free to reach out to me at suzainfatima28@gmail.com – happy to connect and collaborate!<br>
 
 
 ## 🌐 Socials:
